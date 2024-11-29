@@ -1,6 +1,6 @@
 # Tinloof Sanity Template
 "# EF-Munchies-Medusa" 
 
-#To run
+## To run
 - pnpm install
 - pnpm run dev
